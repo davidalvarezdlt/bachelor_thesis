@@ -1,0 +1,5 @@
+gensim~=3.8.3
+h5py~=3.1.0
+progressbar2~=3.53.1
+skeltorch~=2.0.0
+torchtext~=0.8.1

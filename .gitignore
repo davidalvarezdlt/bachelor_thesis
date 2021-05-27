@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MacOS .DS_Store
+.DS_Store
+
+# Virtual Environment
+.venv
+venv/
+ENV/
+
+# Pycharm Project
+.idea/
+
+# Data Folder
+data/*
+!data/.gitkeep
+
+# Experiments Folder
+experiments/*
+!experiments/.gitkeep
